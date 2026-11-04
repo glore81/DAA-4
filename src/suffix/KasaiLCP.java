@@ -1,4 +1,4 @@
 package suffix;
 
-public class KasaiLLCP {
+public class KasaiLCP {
 }
